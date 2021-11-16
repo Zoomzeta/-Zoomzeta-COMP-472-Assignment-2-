@@ -1,0 +1,27 @@
+n=5
+b=4
+s=4
+t=1
+Blocks= [[2, 2], [2, 0], [0, 3], [1, 4]]
+
+Player 1:
+Human or AI? AI
+d=2
+a=True
+
+Player 2:
+Human or AI? AI
+d=6
+a=True
+
+Match 1
+
+  ABCDE
+ +-----
+0|..*..
+1|.....
+2|..*..
+3|*....
+4|.*...
+
+Alpha-Beta:

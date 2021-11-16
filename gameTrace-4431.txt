@@ -1,0 +1,32 @@
+
+n=4
+b=4
+s=3
+t=1
+Blocks= [[0, 0], [0, 4], [4, 0], [4, 4]]
+
+Player 1:
+Human or AI? AI
+d=6
+a=True
+
+Player 2:
+Human or AI? AI
+d=6
+a=True
+
+Match 1
+
+  ABCD
+ +----
+0|*..*
+1|....
+2|....
+3|*..*
+
+Alpha-Beta:
+Evaluation time: 6.2462988s
+Heuristic evaluations: 124596
+Player X under AI control plays: x = 1, y = B
+Player X took too long to play. The player loses by default
+

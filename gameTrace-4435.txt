@@ -1,0 +1,26 @@
+n=4
+b=4
+s=3
+t=5
+Blocks= [[0, 0], [0, 4], [4, 0], [4, 4]]
+
+Player 1:
+Human or AI? AI
+d=6
+a=False
+
+Player 2:
+Human or AI? AI
+d=6
+a=False
+
+Match 1
+
+  ABCD
+ +----
+0|*..*
+1|....
+2|....
+3|*..*
+
+Minimax:...
